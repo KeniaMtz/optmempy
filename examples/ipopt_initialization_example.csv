@@ -1,0 +1,4 @@
+p_feed,pp_0,pp_1,pp_2,LambdaNorm_0_0,LambdaNorm_0_1,LambdaNorm_0_2,LambdaNorm_1_0,LambdaNorm_1_1,LambdaNorm_1_2,LambdaNorm_2_0,LambdaNorm_2_1,LambdaNorm_2_2,PiNorm_0_0,PiNorm_0_1,PiNorm_0_2,PiNorm_1_0,PiNorm_1_1,PiNorm_1_2,PiNorm_2_0,PiNorm_2_1,PiNorm_2_2,dNorm_0,dNorm_1,dNorm_2,fNorm_0,fNorm_1,fNorm_2
+25,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.4,0,0,0,0,0,0,0.1,0.5,0,1,0,0
+30,15,0,0,0,0.5,0.5,0,0,0,0.5,0.5,0,0,0,0,0,0,0.7,0,0.3,0,0,0,0,0.5,0.5,0
+35,3,10,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.4,0.3,0.3

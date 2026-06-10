@@ -1,0 +1,17 @@
+name: optmempy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - ipopt
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - pyomo
+  - scipy
+  - pip
+
+  - pip:
+    - maingopy==0.8.3

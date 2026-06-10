@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scipy
+pyomo
+maingopy
+jupyter
+joblib

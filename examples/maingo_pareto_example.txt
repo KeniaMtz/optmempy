@@ -1,0 +1,6 @@
+objective=separation_factor
+max_pressure=40
+constraints=0.93,0.94
+n_stages=6
+temperature=303
+plot_pareto=1

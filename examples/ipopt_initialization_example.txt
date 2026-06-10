@@ -1,0 +1,10 @@
+objective=molar_power
+max_pressure=40
+no_models=3
+constraints=1.2,1.5
+pressure_exchange=1
+n_stages=3
+relax=1
+temperature=303
+transport_model=sdec
+initialization_file=ipopt_initialization_example.csv

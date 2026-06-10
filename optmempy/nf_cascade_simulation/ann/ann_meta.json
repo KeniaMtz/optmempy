@@ -1,0 +1,61 @@
+{
+  "input_names": [
+    "T",
+    "F_f",
+    "P_f",
+    "P_p",
+    "C0_Ca",
+    "C0_Mg",
+    "C0_Na",
+    "C0_K",
+    "C0_SO4",
+    "C0_Cl"
+  ],
+  "output_names": [
+    "Cp_Ca",
+    "Cp_Mg",
+    "Cp_Na",
+    "Cp_K",
+    "Cp_SO4",
+    "Cp_Cl",
+    "F_p",
+    "P_r"
+  ],
+  "activation": "tanh",
+  "n_layers_linear": 4,
+  "ws_shapes": [
+    [
+      128,
+      10
+    ],
+    [
+      128,
+      128
+    ],
+    [
+      128,
+      128
+    ],
+    [
+      8,
+      128
+    ]
+  ],
+  "bs_shapes": [
+    [
+      128
+    ],
+    [
+      128
+    ],
+    [
+      128
+    ],
+    [
+      8
+    ]
+  ],
+  "x_scaler_path": "preprocessed data/x_scaler.pkl",
+  "y_scaler_path": "preprocessed data/y_scaler.pkl",
+  "ckpt_path": "best-epoch=963-val_loss=0.0009.ckpt"
+}

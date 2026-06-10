@@ -1,0 +1,9 @@
+objective=molar_power
+max_pressure=22.4
+no_models=5
+constraints=1.2,1.5
+pressure_exchange=1
+n_stages=6
+relax=1
+temperature=303
+transport_model=sdec

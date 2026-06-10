@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.env
+.conda/
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+.DS_Store
+optmempy/ipopt_framework/results/*
+optmempy/maingo_framework/results/*
+!optmempy/ipopt_framework/results/.gitkeep
+!optmempy/maingo_framework/results/.gitkeep
