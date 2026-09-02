@@ -263,7 +263,7 @@ Typical outputs include:
 If you use this repository in academic work, please cite:
 
 ```text
-[CITATION SOON! Yeaaaah]
+[CITATION]
 ```
 
 ---
